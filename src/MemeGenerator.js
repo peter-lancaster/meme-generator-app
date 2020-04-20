@@ -50,6 +50,8 @@ class MemeGenerator extends React.Component {
 
     render() {
 
+        console.log("im rendering");
+
         return(
                 <div>
                     <form className="meme-form">
